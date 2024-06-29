@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Perfil</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>João Afonso</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Sobre Mim</h2>
+            <p>Desenvolvedor web apaixonado por tecnologia e inovação.</p>
+        </section>
+        <section>
+            <h2>Habilidades</h2>
+            <ul>
+                <li>HTML5</li>
+                <li>CSS3</li>
+                <li>JavaScript</li>
+                <li>React</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 João Afonso. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
